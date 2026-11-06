@@ -1,0 +1,112 @@
+<a id="top"></a>
+# Temple Courtyard Kung Fu Battle at Dusk
+
+[← All Action & Martial Arts prompts](../action.md#user-content-p-2091103231753457853) · [README](../../README.md)
+
+<a id="p-2091103231753457853"></a>
+### Temple Courtyard Kung Fu Battle at Dusk
+
+<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2091103149901664256/pu/img/HdMlpTBjfptdbLiM.jpg?format=webp&name=small" height="300" alt="Temple Courtyard Kung Fu Battle at Dusk — Wan 3.0"></a>
+
+A 30-second text-to-video kung fu fight in a lantern-lit temple courtyard, with a bracketed prompt listing the global setting and each fighter separately.
+
+`Action & Martial Arts` `30 s` `16:9` `Multi-shot` `Sound cues`
+
+**Wan 3.0** · prompt by [@LudovicCreator](https://x.com/LudovicCreator/status/2091103231753457853) · 2026-08-22 · ♥ 114
+
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+
+<details>
+<summary><b>Prompt</b> (4,297 characters)</summary>
+
+```text
+[PROJECT TYPE] Text-to-video. 30-second cinematic action sequence. Intense kung
+fu battle.
+
+[Global Setting] Traditional Chinese temple courtyard at dusk. Stone ground, red
+lanterns, ancient pillars. Dramatic atmospheric lighting. Gritty realistic combat
+cinematography.
+
+[Character 1  Master Martial Artist] Age 35-40, lean muscular build, traditional
+black kung fu gi, intense focused eyes, weathered face. Precise controlled
+movements. Absolute master of combat.
+
+[Character 2  Multiple Opponents] 3-4 trained fighters in red/dark gi attacking
+simultaneously. Skilled but facing a master. Brutal choreography.
+
+[Scene Description]
+
+[Opening, 0–3s] Wide shot of temple courtyard. Master stands alone, perfectly
+still, centered. Opponents circle him from all angles. Tension building. Rain
+begins falling. The master's breathing is calm and controlled. Opponents tense,
+ready. Silence before the storm.
+
+[First Exchange, 3–9s] FIRST OPPONENT ATTACKS  fast combination of kicks and
+punches. Master sidesteps with minimal movement, pure efficiency. Counter-strike
+master's hand snaps out HARD, opponent staggers backward violently. Second
+opponent presses in from different angle. Master blocks incoming kick with
+explosive impact (sparks from boot contact on stone). Sweeping kick from master
+opponent flies backward, crashes into pillar. HARD impacts, no mercy. Fast-cut
+action, realistic combat sounds.
+
+[Escalation, 9–18s] Multiple opponents attack SIMULTANEOUSLY now  coordinated
+assault. Master becomes ABSOLUTE WARRIOR. Rapid-fire strikes and blocks. Every
+movement is purpose-driven and brutal. One opponent launches spinning kick  master
+catches the leg mid-spin and THROWS them across the courtyard (hard slam on
+ground). Another attacks  master's palm strike connects with chest , opponent
+drops gasping. Third opponent attempts combo master weaves through each strike
+with minimal energy expenditure, then delivers devastating elbow strike to the
+face. Blood. Gritty realistic impacts. Master is untouched, breathing controlled.
+Opponents are outmatched completely.
+
+[SLOW-MOTION PEAK, 18–24s] Final standing opponent makes last desperate attempt
+launching powerful overhead strike. Time slows to 40% speed. Master's hand rises
+in perfect defensive position. Slow-motion shows the IMPACT  the sound echoes,
+slow and resonant. Master's muscles tense absorbing the strike. Master's face
+shows absolute concentration. Then master's OTHER hand moves in slow-motion
+palm strike aimed at opponent's chest in devastating counter. Slow-motion shows
+the movement trajectory, the focus, the power building. Impact happens in slow
+opponent's body recoils violently. Return to normal speed.
+
+[Final Moment, 24–30s] Last opponent flies backward, crashes hard against stone
+wall, crumples to ground. All opponents are down. Master stands in center of
+courtyard, completely untouched, breathing steady. Rain falling on his face. His
+expression is calm but intense. He takes one slow controlled breath. Stone ground
+is marked with impact points. Red lanterns flicker in wind. Master's presence is
+absolute and undeniable. Final frame: master looking directly forward, absolute
+confidence and skill.
+
+[Audio] Rain falling. Tense atmospheric buildup. Master's controlled breathing.
+Opponent footsteps and positioning. HARD impact sounds (realistic, meaty, brutal
+— not cartoonish). Bone-on-bone cracks. Heavy breathing from opponents. Master's
+breathing calm throughout. During slow-motion: all sounds deepen and stretch
+(impact becomes resonant). Final moment: just rain and master's steady breathing.
+
+[Visual Style]
+— Cinematic realistic martial arts
+— Dynamic camera angles (tracking, close-ups, wide shots)
+— Slow-motion on key impacts
+— Rain and atmospheric lighting
+— Blood and gritty realism
+— Precise choreography showing skill
+— Temple setting cinematic framing
+— Master dominates completely
+
+[Tone] Serious, brutal, masterful. This is a display of absolute martial skill.
+Respect for the combat but no mercy. Dark and gritty. The master is unstoppable.
+
+[Consistency]
+— One master throughout (untouched, calm)
+— Multiple opponents (becoming increasingly desperate)
+— Temple courtyard location
+— Rain constant
+— Action escalates then peaks
+— Master's superiority clear
+— Realistic brutal combat
+```
+
+</details>
+
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/LudovicCreator/status/2091103231753457853) · [↑ Top](#top)
+
+---
