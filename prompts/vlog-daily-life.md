@@ -6,7 +6,7 @@
 <a id="p-2111471573395755295"></a>
 ### Phone-Camera Brunch Vlog Take
 
-<a href="https://makernice.com/models/kling-4-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2111468111576563712/img/MbzSebF2545VZc98.jpg?format=webp&name=small" height="300" alt="Phone-Camera Brunch Vlog Take — Kling 4.0"></a>
+<a href="https://makernice.com/models/kling-4-0/?prompt=2111471573395755295&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2111468111576563712/img/MbzSebF2545VZc98.jpg?format=webp&name=small" height="300" alt="Phone-Camera Brunch Vlog Take — Kling 4.0"></a>
 
 A 30-second raw vertical front-camera clip at a cafe, written to look like an unedited phone recording, from a set of several examples.
 
@@ -27,6 +27,6 @@ PROMPT: Raw vertical 9:16 video recorded on a phone's front camera (not on scree
 
 </details>
 
-**[▶ Run Kling 4.0 on Makernice](https://makernice.com/models/kling-4-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/minchoi/status/2111471573395755295) · [↑ Top](#top)
+**[▶ Run Kling 4.0 on Makernice](https://makernice.com/models/kling-4-0/?prompt=2111471573395755295&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/minchoi/status/2111471573395755295) · [↑ Top](#top)
 
 ---

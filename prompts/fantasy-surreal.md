@@ -6,7 +6,7 @@
 <a id="p-2112484546734346612"></a>
 ### Halloween Haunted Mansion Hook
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2112484369197572096/img/YwCwmWOxuOq-sXei.jpg?format=webp&name=small" height="300" alt="Halloween Haunted Mansion Hook — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2112484546734346612&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2112484369197572096/img/YwCwmWOxuOq-sXei.jpg?format=webp&name=small" height="300" alt="Halloween Haunted Mansion Hook — Wan 3.0"></a>
 
 A 15-second fantasy-horror clip opening on a blood-red moon and a haunted gate lined with glowing pumpkins, written as timed scenes.
 
@@ -55,14 +55,14 @@ Creative goal: Make it feel like a billion-dollar Halloween movie compressed int
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/iam_mian7/status/2112484546734346612) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2112484546734346612&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/iam_mian7/status/2112484546734346612) · [↑ Top](#top)
 
 ---
 
 <a id="p-2098153036682047774"></a>
 ### Mars Colony Vehicle Outruns a Collapsing Dome
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2098152902145527816/img/flnOItnEUhKbhW9u.jpg?format=webp&name=small" height="300" alt="Mars Colony Vehicle Outruns a Collapsing Dome — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2098153036682047774&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2098152902145527816/img/flnOItnEUhKbhW9u.jpg?format=webp&name=small" height="300" alt="Mars Colony Vehicle Outruns a Collapsing Dome — Wan 3.0"></a>
 
 A vehicle races across Mars as a huge habitat dome fails behind it; the prompt is a single short paragraph with an overhead follow camera and a final airlock shot.
 
@@ -82,14 +82,14 @@ Ultra-realistic hard sci-fi, Martian landscape, dramatic tension, realistic phys
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/AllaAisling/status/2098153036682047774) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2098153036682047774&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/AllaAisling/status/2098153036682047774) · [↑ Top](#top)
 
 ---
 
 <a id="p-2095949652667298044"></a>
 ### Escape Pod Flees an Exploding Space Station
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095949514058170369/img/e7V1vCGblJ0BcJ3E.jpg?format=webp&name=small" height="300" alt="Escape Pod Flees an Exploding Space Station — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2095949652667298044&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095949514058170369/img/e7V1vCGblJ0BcJ3E.jpg?format=webp&name=small" height="300" alt="Escape Pod Flees an Exploding Space Station — Wan 3.0"></a>
 
 A tiny pod launches from a huge station orbiting a gas giant as it breaks apart, with the camera following close behind through debris fields.
 
@@ -111,14 +111,14 @@ Ultra-realistic hard sci-fi, realistic physics, immense scale, cinematic tension
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/AllaAisling/status/2095949652667298044) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2095949652667298044&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/AllaAisling/status/2095949652667298044) · [↑ Top](#top)
 
 ---
 
 <a id="p-2094658391369191894"></a>
 ### Girl Paints Flowers That Become Real
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2094658269675700224/img/W6XbMlZhoeC7w2ez.jpg?format=webp&name=small" height="300" alt="Girl Paints Flowers That Become Real — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2094658391369191894&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2094658269675700224/img/W6XbMlZhoeC7w2ez.jpg?format=webp&name=small" height="300" alt="Girl Paints Flowers That Become Real — Wan 3.0"></a>
 
 A girl in a rainy Seoul art studio paints objects that come alive for a few seconds, written as a timecoded story that escalates every three seconds.
 
@@ -172,14 +172,14 @@ CONTINUITY RULE: One girl, one studio, one canvas, one paintbrush, same clothing
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/NoOneIsHere2603/status/2094658391369191894) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2094658391369191894&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/NoOneIsHere2603/status/2094658391369191894) · [↑ Top](#top)
 
 ---
 
 <a id="p-2093639918031446064"></a>
 ### Floating Cathedral Warrior Versus Fallen Angel
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2093639806102257664/pu/img/v-Nt3Mr_DlJx7C1p.jpg?format=webp&name=small" height="300" alt="Floating Cathedral Warrior Versus Fallen Angel — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2093639918031446064&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2093639806102257664/pu/img/v-Nt3Mr_DlJx7C1p.jpg?format=webp&name=small" height="300" alt="Floating Cathedral Warrior Versus Fallen Angel — Wan 3.0"></a>
 
 A warrior stands in a ruined cathedral floating in a storm, facing a colossal fallen angel with a split burning halo and orbiting stained-glass shards.
 
@@ -201,7 +201,7 @@ Dark fantasy final battle, angelic VFX, storm, floating ruins, cinematic 4K.
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/LudovicCreator/status/2093639918031446064) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2093639918031446064&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2093639918031446064) · [↑ Top](#top)
 
 ---
 

@@ -6,7 +6,7 @@
 <a id="p-2112176287750259004"></a>
 ### Web-Swinging Heroine Taxi Crash
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2112175759565447168/img/n2_9QSY0L8xWy6R6.jpg?format=webp&name=small" height="300" alt="Web-Swinging Heroine Taxi Crash — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2112176287750259004&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2112175759565447168/img/n2_9QSY0L8xWy6R6.jpg?format=webp&name=small" height="300" alt="Web-Swinging Heroine Taxi Crash — Wan 3.0"></a>
 
 A 10-second action sequence in an ultra-wide frame, built from five 2-second hard-cut sections that end at impact.
 
@@ -25,14 +25,14 @@ A 10-second action sequence in an ultra-wide frame, built from five 2-second har
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/ariaxawan/status/2112176287750259004) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2112176287750259004&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/ariaxawan/status/2112176287750259004) · [↑ Top](#top)
 
 ---
 
 <a id="p-2100809690850664865"></a>
 ### Rival Street Gangs Clash in an Open-World Game Look
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2100809599503003648/img/TRRCs14lWqMQLiwP.jpg?format=webp&name=small" height="300" alt="Rival Street Gangs Clash in an Open-World Game Look — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2100809690850664865&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2100809599503003648/img/TRRCs14lWqMQLiwP.jpg?format=webp&name=small" height="300" alt="Rival Street Gangs Clash in an Open-World Game Look — Wan 3.0"></a>
 
 Two gangs fight in a gritty night city, framed as a recording of a player controlling the action, in a 30-second ultra-realistic gameplay-style clip.
 
@@ -147,14 +147,14 @@ CUT TO BLACK.
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/Inshrah_ali_/status/2100809690850664865) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2100809690850664865&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/Inshrah_ali_/status/2100809690850664865) · [↑ Top](#top)
 
 ---
 
 <a id="p-2093509473277006226"></a>
 ### Supersonic Ground Vehicle Mach Run
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2093509418264498176/img/SEvIsSZjd8AUizLV.jpg?format=webp&name=small" height="300" alt="Supersonic Ground Vehicle Mach Run — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2093509473277006226&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2093509418264498176/img/SEvIsSZjd8AUizLV.jpg?format=webp&name=small" height="300" alt="Supersonic Ground Vehicle Mach Run — Wan 3.0"></a>
 
 An experimental racing vehicle accelerates across open desert at dawn toward a ground speed record, with shockwaves building as the numbers climb.
 
@@ -173,14 +173,14 @@ A futuristic experimental racing vehicle attempts to become the first ground veh
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/AllaAisling/status/2093509473277006226) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2093509473277006226&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/AllaAisling/status/2093509473277006226) · [↑ Top](#top)
 
 ---
 
 <a id="p-2093393927306928140"></a>
 ### Futuristic Desert Racer Volcano Run
 
-<a href="https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2093379165928005632/img/-9aO0yNFKiR3yRWo.jpg?format=webp&name=small" height="300" alt="Futuristic Desert Racer Volcano Run — Wan 3.0"></a>
+<a href="https://makernice.com/models/wan-3-0/?prompt=2093393927306928140&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2093379165928005632/img/-9aO0yNFKiR3yRWo.jpg?format=webp&name=small" height="300" alt="Futuristic Desert Racer Volcano Run — Wan 3.0"></a>
 
 A futuristic racing vehicle launches across a desert at extreme speed while a chain of dormant volcanoes erupts ahead, told as one escalating camera-driven sequence.
 
@@ -200,14 +200,14 @@ Ultra-realistic cinematic racing sequence, extreme speed, realistic vehicle dyna
 
 </details>
 
-**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/AllaAisling/status/2093393927306928140) · [↑ Top](#top)
+**[▶ Run Wan 3.0 on Makernice](https://makernice.com/models/wan-3-0/?prompt=2093393927306928140&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/AllaAisling/status/2093393927306928140) · [↑ Top](#top)
 
 ---
 
 <a id="p-2092952141677646264"></a>
 ### Neon City Street Racing Launch Sequence
 
-<a href="https://makernice.com/models/wan-3-0-prime/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2092951802148712448/img/-loaH8IZNtlUi14m.jpg?format=webp&name=small" height="300" alt="Neon City Street Racing Launch Sequence — Wan 3.0 Prime"></a>
+<a href="https://makernice.com/models/wan-3-0-prime/?prompt=2092952141677646264&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2092951802148712448/img/-loaH8IZNtlUi14m.jpg?format=webp&name=small" height="300" alt="Neon City Street Racing Launch Sequence — Wan 3.0 Prime"></a>
 
 A 15-second arcade-style street race starting from a red light in a neon city, written as a timecoded sequence from launch through the chase.
 
@@ -247,7 +247,7 @@ Format: 9:16 vertical, 15 seconds, ultra-detailed, realistic physics, consistent
 
 </details>
 
-**[▶ Run Wan 3.0 Prime on Makernice](https://makernice.com/models/wan-3-0-prime/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/Rosey_watson/status/2092952141677646264) · [↑ Top](#top)
+**[▶ Run Wan 3.0 Prime on Makernice](https://makernice.com/models/wan-3-0-prime/?prompt=2092952141677646264&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/Rosey_watson/status/2092952141677646264) · [↑ Top](#top)
 
 ---
 

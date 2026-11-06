@@ -6,7 +6,7 @@
 <a id="p-2025210293844861026"></a>
 ### Time-Lapse Life Cycle of a Rose Plant
 
-<a href="https://makernice.com/models/kling-3-0-pro/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2025210229323898880/pu/img/L3UMO_oxqCn2zBFW.jpg?format=webp&name=small" height="300" alt="Time-Lapse Life Cycle of a Rose Plant — Kling 3.0 Pro"></a>
+<a href="https://makernice.com/models/kling-3-0-pro/?prompt=2025210293844861026&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2025210229323898880/pu/img/L3UMO_oxqCn2zBFW.jpg?format=webp&name=small" height="300" alt="Time-Lapse Life Cycle of a Rose Plant — Kling 3.0 Pro"></a>
 
 A time-lapse prompt that follows one rose from seed in dark soil through sprout, seedling and rain to bloom, written as a sequence of growth stages.
 
@@ -33,6 +33,6 @@ Final shot: a mature rose plant standing elegantly, stem strong, leaves glossy a
 
 </details>
 
-**[▶ Run Kling 3.0 Pro on Makernice](https://makernice.com/models/kling-3-0-pro/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/ZaraIrahh/status/2025210293844861026) · [↑ Top](#top)
+**[▶ Run Kling 3.0 Pro on Makernice](https://makernice.com/models/kling-3-0-pro/?prompt=2025210293844861026&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/ZaraIrahh/status/2025210293844861026) · [↑ Top](#top)
 
 ---

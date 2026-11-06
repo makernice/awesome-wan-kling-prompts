@@ -6,7 +6,7 @@
 <a id="p-2090136981112250653"></a>
 ### Red Carpet Gala Arrival in Fast Two-Second Cuts
 
-<a href="https://makernice.com/models/kling-3-0-4k/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2090136537442988032/img/U7zhClDuLbFVMjwA.jpg?format=webp&name=small" height="300" alt="Red Carpet Gala Arrival in Fast Two-Second Cuts — Kling 3.0 4K"></a>
+<a href="https://makernice.com/models/kling-3-0-4k/?prompt=2090136981112250653&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2090136537442988032/img/U7zhClDuLbFVMjwA.jpg?format=webp&name=small" height="300" alt="Red Carpet Gala Arrival in Fast Two-Second Cuts — Kling 3.0 4K"></a>
 
 A 15-second high-fashion sequence of a woman in a couture gown arriving amid camera flashes, cut exactly every two seconds in a dramatic film look.
 
@@ -34,6 +34,6 @@ Raw documentary-style camera textures, organic lens flares, lifelike physics, au
 
 </details>
 
-**[▶ Run Kling 3.0 4K on Makernice](https://makernice.com/models/kling-3-0-4k/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/Diplomeme/status/2090136981112250653) · [↑ Top](#top)
+**[▶ Run Kling 3.0 4K on Makernice](https://makernice.com/models/kling-3-0-4k/?prompt=2090136981112250653&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/Diplomeme/status/2090136981112250653) · [↑ Top](#top)
 
 ---

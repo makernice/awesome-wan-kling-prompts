@@ -60,7 +60,7 @@ WAN 3.0 — UGC: I TRIED THE VIRAL RESTAURANT **OUTPUT** Authentic vertical UGC 
 <a id="p-2049887532205433223"></a>
 ### Strawberry Repair Cream Tube Hero Shot
 
-<a href="https://makernice.com/models/kling-3-0-pro/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/media/HHKpf38a4AAFMgW.jpg?format=webp&name=small" height="300" alt="Strawberry Repair Cream Tube Hero Shot — Kling 3.0 Pro"></a>
+<a href="https://makernice.com/models/kling-3-0-pro/?prompt=2049887532205433223&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/media/HHKpf38a4AAFMgW.jpg?format=webp&name=small" height="300" alt="Strawberry Repair Cream Tube Hero Shot — Kling 3.0 Pro"></a>
 
 A short product-shot prompt placing a jade-pink cream tube on glossy marble with strawberry splashes and flying slices in warm natural light.
 
@@ -79,14 +79,14 @@ A sleek jade-pink tube labeled "Strawberry Repair Cream" upright on glossy marbl
 
 </details>
 
-**[▶ Run Kling 3.0 Pro on Makernice](https://makernice.com/models/kling-3-0-pro/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/Strength04_X/status/2049887532205433223) · [↑ Top](#top)
+**[▶ Run Kling 3.0 Pro on Makernice](https://makernice.com/models/kling-3-0-pro/?prompt=2049887532205433223&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2049887532205433223) · [↑ Top](#top)
 
 ---
 
 <a id="p-2048303530902265949"></a>
 ### Strawberry Ice Cream Product Ad With Infographic Look
 
-<a href="https://makernice.com/models/kling-3-0-pro/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2048303455195086848/pu/img/JOm5hp_T5fS0Nqey.jpg?format=webp&name=small" height="300" alt="Strawberry Ice Cream Product Ad With Infographic Look — Kling 3.0 Pro"></a>
+<a href="https://makernice.com/models/kling-3-0-pro/?prompt=2048303530902265949&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2048303455195086848/pu/img/JOm5hp_T5fS0Nqey.jpg?format=webp&name=small" height="300" alt="Strawberry Ice Cream Product Ad With Infographic Look — Kling 3.0 Pro"></a>
 
 A product ad built around a swirled strawberry ice cream scoop in a glass cup, described as a clean infographic-style composition with glossy highlights.
 
@@ -129,6 +129,6 @@ Image Size: 1080 1080 pixels
 
 </details>
 
-**[▶ Run Kling 3.0 Pro on Makernice](https://makernice.com/models/kling-3-0-pro/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts)** · [Original post](https://x.com/Strength04_X/status/2048303530902265949) · [↑ Top](#top)
+**[▶ Run Kling 3.0 Pro on Makernice](https://makernice.com/models/kling-3-0-pro/?prompt=2048303530902265949&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2048303530902265949) · [↑ Top](#top)
 
 ---
