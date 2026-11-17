@@ -14,7 +14,7 @@ A 15-second high-fashion sequence of a woman in a couture gown arriving amid cam
 
 **Kling 3.0 4K** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2090136981112250653) · 2026-08-19 · ♥ 151
 
-**Rerun cost** for 15 s: 4K $7.71408 (price list v12)
+**Rerun cost** for 15 s: 4K $7.71408 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,837 characters)</summary>

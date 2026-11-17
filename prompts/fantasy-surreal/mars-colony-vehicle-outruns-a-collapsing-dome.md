@@ -14,7 +14,7 @@ A vehicle races across Mars as a huge habitat dome fails behind it; the prompt i
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2098153036682047774) · 2026-09-10 · ♥ 34
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (638 characters)</summary>

@@ -14,7 +14,7 @@ An experimental racing vehicle accelerates across open desert at dawn toward a g
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2093509473277006226) · 2026-08-29 · ♥ 40
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,289 characters)</summary>

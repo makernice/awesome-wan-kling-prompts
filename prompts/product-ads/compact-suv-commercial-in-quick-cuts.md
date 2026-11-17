@@ -14,7 +14,7 @@ A 30-second car commercial with one shot every two seconds, relying on reference
 
 **Kling 4.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2110947179057811727) · 2026-10-16 · ♥ 120
 
-**Rerun cost** for 30 s: 720p $5.04 · 1080p $7.56 (price list v12)
+**Rerun cost** for 30 s: 720p $5.04 · 1080p $7.56 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

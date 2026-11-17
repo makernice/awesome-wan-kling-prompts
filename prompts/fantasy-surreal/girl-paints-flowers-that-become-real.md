@@ -14,7 +14,7 @@ A girl in a rainy Seoul art studio paints objects that come alive for a few seco
 
 **Wan 3.0** · prompt by [@NoOneIsHere2603](https://x.com/NoOneIsHere2603/status/2094658391369191894) · 2026-09-01 · ♥ 87
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,139 characters)</summary>

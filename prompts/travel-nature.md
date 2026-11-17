@@ -14,7 +14,7 @@ A time-lapse prompt that follows one rose from seed in dark soil through sprout,
 
 **Kling 3.0 Pro** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2025210293844861026) · 2026-02-21 · ♥ 174
 
-**Rerun cost** for 10 s: 1080p $1.6128 (price list v12)
+**Rerun cost** for 10 s: 1080p $1.6128 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,558 characters)</summary>

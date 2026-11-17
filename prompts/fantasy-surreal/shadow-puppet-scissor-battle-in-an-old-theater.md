@@ -14,7 +14,7 @@ A female warrior with tiny iron scissors faces hundreds of faceless wooden assas
 
 **Wan 3.0** · prompt by [@FellMentKE](https://x.com/FellMentKE/status/2092617578338504970) · 2026-08-26 · ♥ 179
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

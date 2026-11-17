@@ -14,7 +14,7 @@ A 15-second fantasy-horror clip opening on a blood-red moon and a haunted gate l
 
 **Wan 3.0** · prompt by [@iam_mian7](https://x.com/iam_mian7/status/2112484546734346612) · 2026-10-20 · ♥ 314
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,138 characters)</summary>
@@ -70,7 +70,7 @@ A vehicle races across Mars as a huge habitat dome fails behind it; the prompt i
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2098153036682047774) · 2026-09-10 · ♥ 34
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (638 characters)</summary>
@@ -97,7 +97,7 @@ A tiny pod launches from a huge station orbiting a gas giant as it breaks apart,
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2095949652667298044) · 2026-09-04 · ♥ 37
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (695 characters)</summary>
@@ -126,7 +126,7 @@ A girl in a rainy Seoul art studio paints objects that come alive for a few seco
 
 **Wan 3.0** · prompt by [@NoOneIsHere2603](https://x.com/NoOneIsHere2603/status/2094658391369191894) · 2026-09-01 · ♥ 87
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,139 characters)</summary>
@@ -187,7 +187,7 @@ A warrior stands in a ruined cathedral floating in a storm, facing a colossal fa
 
 **Wan 3.0** · prompt by [@LudovicCreator](https://x.com/LudovicCreator/status/2093639918031446064) · 2026-08-29 · ♥ 50
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (831 characters)</summary>
@@ -216,7 +216,7 @@ A female warrior with tiny iron scissors faces hundreds of faceless wooden assas
 
 **Wan 3.0** · prompt by [@FellMentKE](https://x.com/FellMentKE/status/2092617578338504970) · 2026-08-26 · ♥ 179
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

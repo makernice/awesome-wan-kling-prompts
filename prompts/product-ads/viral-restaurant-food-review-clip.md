@@ -14,7 +14,7 @@ A 30-second smartphone-style creator food review of a viral restaurant, written 
 
 **Wan 3.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2092662950633123914) · 2026-08-26 · ♥ 61
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,039 characters)</summary>

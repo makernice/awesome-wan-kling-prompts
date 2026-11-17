@@ -14,7 +14,7 @@ A product ad built around a swirled strawberry ice cream scoop in a glass cup, d
 
 **Kling 3.0 Pro** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2048303530902265949) · 2026-04-26 · ♥ 318
 
-**Rerun cost** for 8 s: 1080p $1.29024 (price list v12)
+**Rerun cost** for 8 s: 1080p $1.29024 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,635 characters)</summary>

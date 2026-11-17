@@ -14,7 +14,7 @@ A 15-second fantasy-horror clip opening on a blood-red moon and a haunted gate l
 
 **Wan 3.0** · prompt by [@iam_mian7](https://x.com/iam_mian7/status/2112484546734346612) · 2026-10-20 · ♥ 314
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,138 characters)</summary>

@@ -14,7 +14,7 @@ A 10-second action sequence in an ultra-wide frame, built from five 2-second har
 
 **Wan 3.0** · prompt by [@ariaxawan](https://x.com/ariaxawan/status/2112176287750259004) · 2026-10-19 · ♥ 157
 
-**Rerun cost** for 10 s: 480p $0.39456 · 720p $0.78903 · 1080p $1.57805 (price list v12)
+**Rerun cost** for 10 s: 480p $0.39456 · 720p $0.78903 · 1080p $1.57805 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,075 characters)</summary>
@@ -40,7 +40,7 @@ Two gangs fight in a gritty night city, framed as a recording of a player contro
 
 **Wan 3.0** · prompt by [@Inshrah_ali_](https://x.com/Inshrah_ali_/status/2100809690850664865) · 2026-09-18 · ♥ 162
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,449 characters)</summary>
@@ -162,7 +162,7 @@ An experimental racing vehicle accelerates across open desert at dawn toward a g
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2093509473277006226) · 2026-08-29 · ♥ 40
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,289 characters)</summary>
@@ -188,7 +188,7 @@ A futuristic racing vehicle launches across a desert at extreme speed while a ch
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2093393927306928140) · 2026-08-28 · ♥ 44
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,212 characters)</summary>
@@ -215,7 +215,7 @@ A 15-second arcade-style street race starting from a red light in a neon city, w
 
 **Wan 3.0 Prime** · prompt by [@Rosey_watson](https://x.com/Rosey_watson/status/2092952141677646264) · 2026-08-27 · ♥ 55
 
-**Rerun cost** for 15 s: 480p $0.925725 · 720p $1.851435 · 1080p $3.702855 (price list v12)
+**Rerun cost** for 15 s: 480p $0.925725 · 720p $1.851435 · 1080p $3.702855 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,994 characters)</summary>
@@ -262,7 +262,7 @@ A 30-second text-to-video kung fu fight in a lantern-lit temple courtyard, with 
 
 **Wan 3.0** · prompt by [@LudovicCreator](https://x.com/LudovicCreator/status/2091103231753457853) · 2026-08-22 · ♥ 114
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,297 characters)</summary>

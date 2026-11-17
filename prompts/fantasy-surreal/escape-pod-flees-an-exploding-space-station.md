@@ -14,7 +14,7 @@ A tiny pod launches from a huge station orbiting a gas giant as it breaks apart,
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2095949652667298044) · 2026-09-04 · ♥ 37
 
-**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v12)
+**Rerun cost** for 15 s: 480p $0.59184 · 720p $1.183545 · 1080p $2.367075 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (695 characters)</summary>

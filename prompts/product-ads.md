@@ -14,7 +14,7 @@ A 30-second car commercial with one shot every two seconds, relying on reference
 
 **Kling 4.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2110947179057811727) · 2026-10-16 · ♥ 120
 
-**Rerun cost** for 30 s: 720p $5.04 · 1080p $7.56 (price list v12)
+**Rerun cost** for 30 s: 720p $5.04 · 1080p $7.56 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 
@@ -42,7 +42,7 @@ A 30-second smartphone-style creator food review of a viral restaurant, written 
 
 **Wan 3.0** · prompt by [@Diplomeme](https://x.com/Diplomeme/status/2092662950633123914) · 2026-08-26 · ♥ 61
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,039 characters)</summary>
@@ -68,7 +68,7 @@ A short product-shot prompt placing a jade-pink cream tube on glossy marble with
 
 **Kling 3.0 Pro** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2049887532205433223) · 2026-04-30 · ♥ 150
 
-**Rerun cost** for 10 s: 1080p $1.6128 (price list v12)
+**Rerun cost** for 10 s: 1080p $1.6128 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (242 characters)</summary>
@@ -94,7 +94,7 @@ A product ad built around a swirled strawberry ice cream scoop in a glass cup, d
 
 **Kling 3.0 Pro** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2048303530902265949) · 2026-04-26 · ♥ 318
 
-**Rerun cost** for 8 s: 1080p $1.29024 (price list v12)
+**Rerun cost** for 8 s: 1080p $1.29024 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,635 characters)</summary>

@@ -14,7 +14,7 @@ A rainy midnight anime duel in a bamboo grove between a fire wielder and a horne
 
 **Wan 3.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2112051914213032430) · 2026-10-19 · ♥ 166
 
-**Rerun cost** for 20 s: 480p $0.78912 · 720p $1.57806 · 1080p $3.1561 (price list v12)
+**Rerun cost** for 20 s: 480p $0.78912 · 720p $1.57806 · 1080p $3.1561 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,126 characters)</summary>
@@ -70,7 +70,7 @@ A staff-wielding character dances atop a tower and sends energy into clouds, ope
 
 **Wan 3.0** · prompt by [@aimikoda](https://x.com/aimikoda/status/2099278002534101053) · 2026-09-13 · ♥ 276
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

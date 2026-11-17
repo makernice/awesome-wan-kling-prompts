@@ -14,7 +14,7 @@ A 30-second text-to-video kung fu fight in a lantern-lit temple courtyard, with 
 
 **Wan 3.0** · prompt by [@LudovicCreator](https://x.com/LudovicCreator/status/2091103231753457853) · 2026-08-22 · ♥ 114
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,297 characters)</summary>

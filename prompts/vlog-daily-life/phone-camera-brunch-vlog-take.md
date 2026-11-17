@@ -14,7 +14,7 @@ A 30-second raw vertical front-camera clip at a cafe, written to look like an un
 
 **Kling 4.0** · prompt by [@minchoi](https://x.com/minchoi/status/2111471573395755295) · 2026-10-17 · ♥ 266
 
-**Rerun cost** for 30 s: 720p $5.04 · 1080p $7.56 (price list v12)
+**Rerun cost** for 30 s: 720p $5.04 · 1080p $7.56 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (2,270 characters)</summary>

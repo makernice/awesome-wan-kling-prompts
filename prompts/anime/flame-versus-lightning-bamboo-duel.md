@@ -14,7 +14,7 @@ A rainy midnight anime duel in a bamboo grove between a fire wielder and a horne
 
 **Wan 3.0** · prompt by [@ZaraIrahh](https://x.com/ZaraIrahh/status/2112051914213032430) · 2026-10-19 · ♥ 166
 
-**Rerun cost** for 20 s: 480p $0.78912 · 720p $1.57806 · 1080p $3.1561 (price list v12)
+**Rerun cost** for 20 s: 480p $0.78912 · 720p $1.57806 · 1080p $3.1561 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (4,126 characters)</summary>

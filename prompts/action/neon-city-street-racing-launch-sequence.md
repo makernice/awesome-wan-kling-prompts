@@ -14,7 +14,7 @@ A 15-second arcade-style street race starting from a red light in a neon city, w
 
 **Wan 3.0 Prime** · prompt by [@Rosey_watson](https://x.com/Rosey_watson/status/2092952141677646264) · 2026-08-27 · ♥ 55
 
-**Rerun cost** for 15 s: 480p $0.925725 · 720p $1.851435 · 1080p $3.702855 (price list v12)
+**Rerun cost** for 15 s: 480p $0.925725 · 720p $1.851435 · 1080p $3.702855 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,994 characters)</summary>

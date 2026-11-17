@@ -14,7 +14,7 @@ A short product-shot prompt placing a jade-pink cream tube on glossy marble with
 
 **Kling 3.0 Pro** · prompt by [@Strength04_X](https://x.com/Strength04_X/status/2049887532205433223) · 2026-04-30 · ♥ 150
 
-**Rerun cost** for 10 s: 1080p $1.6128 (price list v12)
+**Rerun cost** for 10 s: 1080p $1.6128 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (242 characters)</summary>

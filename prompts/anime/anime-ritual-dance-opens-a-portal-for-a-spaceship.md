@@ -14,7 +14,7 @@ A staff-wielding character dances atop a tower and sends energy into clouds, ope
 
 **Wan 3.0** · prompt by [@aimikoda](https://x.com/aimikoda/status/2099278002534101053) · 2026-09-13 · ♥ 276
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 > The original uses reference images. Add your own reference images when you rerun it.
 

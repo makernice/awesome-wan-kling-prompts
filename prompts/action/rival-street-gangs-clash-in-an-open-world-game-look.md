@@ -14,7 +14,7 @@ Two gangs fight in a gritty night city, framed as a recording of a player contro
 
 **Wan 3.0** · prompt by [@Inshrah_ali_](https://x.com/Inshrah_ali_/status/2100809690850664865) · 2026-09-18 · ♥ 162
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,449 characters)</summary>

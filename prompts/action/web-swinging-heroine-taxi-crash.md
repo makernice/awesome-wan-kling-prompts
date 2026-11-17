@@ -14,7 +14,7 @@ A 10-second action sequence in an ultra-wide frame, built from five 2-second har
 
 **Wan 3.0** · prompt by [@ariaxawan](https://x.com/ariaxawan/status/2112176287750259004) · 2026-10-19 · ♥ 157
 
-**Rerun cost** for 10 s: 480p $0.39456 · 720p $0.78903 · 1080p $1.57805 (price list v12)
+**Rerun cost** for 10 s: 480p $0.39456 · 720p $0.78903 · 1080p $1.57805 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (3,075 characters)</summary>

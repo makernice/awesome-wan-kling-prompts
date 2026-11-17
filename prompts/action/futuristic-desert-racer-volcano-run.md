@@ -14,7 +14,7 @@ A futuristic racing vehicle launches across a desert at extreme speed while a ch
 
 **Wan 3.0** · prompt by [@AllaAisling](https://x.com/AllaAisling/status/2093393927306928140) · 2026-08-28 · ♥ 44
 
-**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v12)
+**Rerun cost** for 30 s: 480p $1.18368 · 720p $2.36709 · 1080p $4.73415 (price list v15)
 
 <details>
 <summary><b>Prompt</b> (1,212 characters)</summary>

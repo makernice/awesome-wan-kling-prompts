@@ -12,7 +12,7 @@
 <a href="#%EF%B8%8F-license--reuse"><img src="https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-yellow?style=flat-square"></a>
 </p>
 
-<p align="center"><b><a href="https://makernice.com/prompts/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts">▶ Watch the clips with sound on Makernice</a></b> · <a href="https://github.com/makernice/awesome-seedance-2.5-prompts">Seedance 2.5 prompts</a> · <a href="https://github.com/makernice/awesome-minimax-h3-prompts">MiniMax H3 prompts</a></p>
+<p align="center"><b><a href="https://makernice.com/prompts/wan-kling/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-wan-kling-prompts">▶ Watch the clips with sound on Makernice</a></b> · <a href="https://github.com/makernice/awesome-seedance-2.5-prompts">Seedance 2.5 prompts</a> · <a href="https://github.com/makernice/awesome-minimax-h3-prompts">MiniMax H3 prompts</a></p>
 
 ## Contents
 
@@ -47,7 +47,7 @@
 
 ## 🔥 Most liked
 
-Likes on the original X post, read on 2026-11-06.
+Likes on the original X post, read on 2026-11-17.
 
 | # | | Prompt | Category | Length | Creator | ♥ on X |
 |---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Likes on the original X post, read on 2026-11-06.
 
 ## 🎬 Wan & Kling at a glance
 
-| Model on Makernice (price list v12) | Length per run | Price per second | Modes | Aspect ratios |
+| Model on Makernice (price list v15) | Length per run | Price per second | Modes | Aspect ratios |
 |---|---|---|---|---|
 | Wan 3.0 | 2–30 s | 480p $0.039456 · 720p $0.078903 · 1080p $0.157805 | Text-to-video · Image-to-video · First and last frame · up to 10 reference images | adaptive, 16:9, 9:16, 1:1, 4:3, 3:4 |
 | Kling 3.0 Pro | 3–15 s | 1080p $0.16128 | Text-to-video · Image-to-video · First and last frame | 9:16, 16:9, 1:1 |
